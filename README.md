@@ -41,4 +41,3 @@ Senior Software & AI Solutions Engineer with experience architecting scalable we
 ### 📫 Connect With Me
 - **Upwork Profile:** [Chris K. - Full-Stack & AI Automation Developer](https://www.upwork.com/freelancers/~01777b7ee3cbca3327)
 - **Email:** kwangechi3@gmail.com
-- **Location:** Lower Kabete, Kenya (UTC +3)
