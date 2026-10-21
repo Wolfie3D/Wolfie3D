@@ -1,4 +1,5 @@
-# Hi there, I'm Chris Wangeci (Wolfie3D) 👋 
+# Hi there, I'm Chris Wangeci (Wolfie3D) 👋
+**Senior Software & AI Solutions Engineer** | [View My Master CV](https://drive.google.com/file/d/1AkA_dMrE9XtMl0c8QJOXrvSVR-V_YZXq/view?usp=drivesdk)[cite: 1]
 ### Full-Stack Developer | Python & Laravel | AI Integrations & Automation
 
 Senior Software & AI Solutions Engineer with experience architecting scalable web applications, custom LLM workflows (OpenAI/Claude API), and high-volume automated web scraping pipelines.
