@@ -1,7 +1,10 @@
 # Hi there, I'm Chris Wangeci (Wolfie3D) 👋
-**Senior Software & AI Solutions Engineer** | [View My Master CV](https://drive.google.com/file/d/1AkA_dMrE9XtMl0c8QJOXrvSVR-V_YZXq/view?usp=drivesdk) > [![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-swart-zeta-40.vercel.app)
+**Senior Software & AI Solutions Engineer** | [View My Master CV](https://drive.google.com/file/d/1AkA_dMrE9XtMl0c8QJOXrvSVR-V_YZXq/view?usp=drivesdk) 
+
 
 Senior Software & AI Solutions Engineer with experience architecting scalable web applications, custom LLM workflows (OpenAI/Claude API), and high-volume automated web scraping pipelines.
+
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-swart-zeta-40.vercel.app)
 
 ---
 
